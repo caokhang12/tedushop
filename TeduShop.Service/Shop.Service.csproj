@@ -44,17 +44,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TeduShop.Common\TeduShop.Common.csproj">
+    <ProjectReference Include="..\TeduShop.Common\Shop.Common.csproj">
       <Project>{97292b8e-3ede-48ed-909a-e4c5f2e14709}</Project>
-      <Name>TeduShop.Common</Name>
+      <Name>Shop.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TeduShop.Data\TeduShop.Data.csproj">
+    <ProjectReference Include="..\TeduShop.Data\Shop.Data.csproj">
       <Project>{807f1411-14de-42f7-8ceb-8b829519b3d5}</Project>
-      <Name>TeduShop.Data</Name>
+      <Name>Shop.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TeduShop.Model\TeduShop.Model.csproj">
+    <ProjectReference Include="..\TeduShop.Model\Shop.Model.csproj">
       <Project>{59705ec2-2a39-4679-9774-e15f4d6572a0}</Project>
-      <Name>TeduShop.Model</Name>
+      <Name>Shop.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

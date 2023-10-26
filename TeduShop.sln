@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Common", "TeduShop.Common\TeduShop.Common.csproj", "{97292B8E-3EDE-48ED-909A-E4C5F2E14709}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Common", "TeduShop.Common\Shop.Common.csproj", "{97292B8E-3EDE-48ED-909A-E4C5F2E14709}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Data", "TeduShop.Data\TeduShop.Data.csproj", "{807F1411-14DE-42F7-8CEB-8B829519B3D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Data", "TeduShop.Data\Shop.Data.csproj", "{807F1411-14DE-42F7-8CEB-8B829519B3D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Model", "TeduShop.Model\TeduShop.Model.csproj", "{59705EC2-2A39-4679-9774-E15F4D6572A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Model", "TeduShop.Model\Shop.Model.csproj", "{59705EC2-2A39-4679-9774-E15F4D6572A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Service", "TeduShop.Service\TeduShop.Service.csproj", "{BA7A2BC8-522C-401F-8B92-C0DF7545E4AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Service", "TeduShop.Service\Shop.Service.csproj", "{BA7A2BC8-522C-401F-8B92-C0DF7545E4AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.UnitTest", "TeduShop.UnitTest\TeduShop.UnitTest.csproj", "{24FFD9CA-1BEB-4E1C-A49A-76EF2F57D77B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.UnitTest", "TeduShop.UnitTest\Shop.UnitTest.csproj", "{24FFD9CA-1BEB-4E1C-A49A-76EF2F57D77B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Web", "TeduShop.Web\TeduShop.Web.csproj", "{F618A309-727E-4398-B471-748D8E248CBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Web", "TeduShop.Web\Shop.Web.csproj", "{F618A309-727E-4398-B471-748D8E248CBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
